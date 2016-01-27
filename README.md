@@ -5,7 +5,7 @@ http://ai.berkeley.edu/project_overview.html
 
 Sections Of the Project Covered are:
 
-Search:  
+Search: 
 Implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
 
 
